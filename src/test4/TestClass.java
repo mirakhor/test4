@@ -8,6 +8,7 @@ package test4;
  *
  * @author Elnaz
  */
+//comment added
 public class TestClass {
     private int value;
     private String name;
