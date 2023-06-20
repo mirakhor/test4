@@ -10,6 +10,7 @@ package test4;
  */
 //comment added
 //comment 2 added
+//comment 3 added
 public class TestClass {
     private int value;
     private String name;
